@@ -1,11 +1,5 @@
 # ICT3115 - Sistemas Urbanos Inteligentes
 
-<!-- ## Video y tutoriales
-
-1. [Tutorial CMD](https://www.youtube.com/watch?v=qgFmMU6Pukc) 
-1. [Tutorial Instalación Python y Jupyter](https://www.youtube.com/watch?v=FxHoi_ZRV4s) -->
-
-
 
 ## Evaluación
 
@@ -18,18 +12,18 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 ## Calendario de clases
 
-<details>
+<details open>
 <summary>Capítulo 1: Introducción</summary>
 <br>
  
-| Capítulo |	Tópico           | Fecha          | Recursos |
+| Capítulo |	Tópico            | Fecha        | Recursos |
 | :-:      | :-:               | :-:          | :-:      |
-| 1        | Introducción      | Jueves 18/03 | [Video](https://youtu.be/jDW_kl3n4B0) - [Slides](../../blob/main/Clases/Capítulo%201/01%20-%20Introducción.pdf) |
-| 1        | Fundamentos de ML Parte 1| Martes 23/03 | [Video](https://youtu.be/T5fmQMDJfDA) - [Slides](../../blob/main/Clases/Capítulo%201/02%20-%20Fundamentos%20de%20Machine%20Learning%20Parte%201.pdf)|
-| 1        | Fundamentos de ML Parte 2| Jueves 25/03 | [Video](https://youtu.be/KV7Xke_LEsU) - [Slides](../../blob/main/Clases/Capítulo%201/03%20-%20Fundamentos%20de%20Machine%20Learning%20Parte%202.pdf) - [Código](../../tree/main/Clases/Capítulo%201/Ejemplos)|
-| 1        | Fundamentos de ML Parte 3| Martes 30/03 | [Video](https://youtu.be/zSL2A7LIu0I) - [Slides](../../blob/main/Clases/Capítulo%201/04%20-%20Fundamentos%20de%20Machine%20Learning%20Parte%203.pdf) - [Ejemplos](../../tree/main/Clases/Capítulo%201/Ejemplos) |
+| 1        | Introducción      | Jueves 10/03 | Slides |
+| 1        | Fundamentos de ML | Martes 15/03 | Slides |
  
 </details>
+ 
+ <!--
  
 <details>
 <summary>Capítulo 2: Datos Tabulados</summary>
@@ -96,6 +90,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
  
 </details>
+
 
 ## Tareas
  
@@ -223,8 +218,10 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 </details>
 
+-->
+
 ## Notas
-Las notas oficiales se irán actualizando en [SIDING](https://www.ing.uc.cl/#SIDING).
+Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.cl/).
 
 ## Contacto
 
@@ -233,3 +230,7 @@ Al correo del profesor: halobel@ing.puc.cl. Aquí pueden enviar sus inquietudes 
 ## Foro
 
 La página de [Issues](../../issues) se utilizará como foro para preguntas. Se recomienda preferir este medio antes que el mail, para que la información esté disponible para todos.
+
+## Otros Semestres
+
+* [Syllabus 2021-1](https://github.com/ICT3115/Syllabus-2021-1)
