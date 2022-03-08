@@ -16,10 +16,9 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 <summary>Capítulo 1: Introducción</summary>
 <br>
  
-| Capítulo |	Tópico            | Fecha        | Recursos |
-| :-:      | :-:               | :-:          | :-:      |
-| 1        | Introducción      | Jueves 10/03 | Slides |
-| 1        | Fundamentos de ML | Martes 15/03 | Slides |
+| Tópico            | Fecha        | Recursos |
+| :-:               | :-:          | :-:      |
+| Introducción      | Jueves 10/03 | Slides   |
  
 </details>
  
