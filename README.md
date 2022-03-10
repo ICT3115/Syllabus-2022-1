@@ -18,7 +18,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
  
 | Tópico            | Fecha        | Recursos |
 | :-:               | :-:          | :-:      |
-| Introducción      | Jueves 10/03 | Slides   |
+| Introducción      | Jueves 10/03 | [Slides](../../blob/master/Clases/Capítulo%201/01%20-%20Introducción.pdf) |
  
 </details>
  
