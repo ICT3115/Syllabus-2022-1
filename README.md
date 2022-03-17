@@ -20,6 +20,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | :-:                             | :-:          | :-:      |
 | Introducción                    | Jueves 10/03 | [Slides](../../blob/master/Clases/Capítulo%201/01%20-%20Introducción.pdf) |
 | Fundamentos de Machine Learning | Martes 15/03 | [Slides](../../blob/master/Clases/Capítulo%201/02%20-%20Fundamentos%20de%20Machine%20Learning.pdf) |
+| Fundamentos de Machine Learning | Jueves 17/03 | [Slides](../../blob/master/Clases/Capítulo%201/02%20-%20Fundamentos%20de%20Machine%20Learning.pdf) - [Ejemplos](../../tree/master/Clases/Capítulo%201/Ejemplos)|
  
 </details>
  
