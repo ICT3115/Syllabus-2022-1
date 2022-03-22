@@ -16,11 +16,12 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 <summary>Capítulo 1: Introducción</summary>
 <br>
  
-| Tópico                          | Fecha        | Recursos |
-| :-:                             | :-:          | :-:      |
-| Introducción                    | Jueves 10/03 | [Slides](../../blob/master/Clases/Capítulo%201/01%20-%20Introducción.pdf) |
-| Fundamentos de Machine Learning | Martes 15/03 | [Slides](../../blob/master/Clases/Capítulo%201/02%20-%20Fundamentos%20de%20Machine%20Learning.pdf) |
-| Fundamentos de Machine Learning | Jueves 17/03 | [Slides](../../blob/master/Clases/Capítulo%201/02%20-%20Fundamentos%20de%20Machine%20Learning.pdf) - [Ejemplos](../../tree/master/Clases/Capítulo%201/Ejemplos)|
+| Tópico                           | Fecha        | Recursos |
+| :-:                              | :-:          | :-:      |
+| Introducción                     | Jueves 10/03 | [Slides](../../blob/master/Clases/Capítulo%201/01%20-%20Introducción.pdf) |
+| Fundamentos de ML | Martes 15/03 | [Slides](../../blob/master/Clases/Capítulo%201/02%20-%20Fundamentos%20de%20Machine%20Learning.pdf) |
+| Fundamentos de ML | Jueves 17/03 | [Slides](../../blob/master/Clases/Capítulo%201/02%20-%20Fundamentos%20de%20Machine%20Learning.pdf) |
+| Fundamentos de ML | Martes 22/03 | [Slides](../../blob/master/Clases/Capítulo%201/02%20-%20Fundamentos%20de%20Machine%20Learning.pdf) - [Ejemplos](../../tree/master/Clases/Capítulo%201/Ejemplos) - [Explicación SVM](https://youtu.be/zSL2A7LIu0I?t=3234)|
  
 </details>
  
