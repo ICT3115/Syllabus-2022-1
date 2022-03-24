@@ -12,7 +12,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 ## Calendario de clases
 
-<details open>
+<details>
 <summary>Capítulo 1: Introducción</summary>
 <br>
  
@@ -25,22 +25,17 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
  
 </details>
  
- <!--
- 
-<details>
-<summary>Capítulo 2: Datos Tabulados</summary>
+<details open>
+<summary>Capítulo 2: Procesamiento de datos tabulados</summary>
 <br>
  
-| Capítulo |	Tópico           | Fecha          | Recursos |
-| :-:      | :-:               | :-:          | :-:      |
-| 2        | Introducción a Redes Neuronales Parte 1| Jueves 01/04 | [Video](https://youtu.be/ErjP0V_DgTQ) - [Slides](../../blob/main/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales%20Parte%201.pdf)|
-| 2        | Introducción a Redes Neuronales Parte 2| Martes 06/04 | [Video](https://youtu.be/BIhl1QA1nkA) - [Slides](../../blob/main/Clases/Capítulo%202/02%20-%20Introducción%20a%20Redes%20Neuronales%20Parte%202.pdf) - [Ejemplos](../../tree/main/Clases/Capítulo%202/Ejemplos)|
-| 2        | Árboles y Ensambles Parte 1| Jueves 08/04 | [Video](https://youtu.be/pQKIhLMYuGw) - [Slides](../../blob/main/Clases/Capítulo%202/03%20-%20Árboles%20y%20Ensambles.pdf) - [Ejemplos](../../blob/main/Clases/Capítulo%202/Ejemplos/02%20-%20árboles_y_ensambles.ipynb)|
-| 2        | Árboles y Ensambles Parte 2| Martes 13/04 | [Video](https://youtu.be/ps5eqcwFUlA) - [Slides](../../blob/main/Clases/Capítulo%202/03%20-%20Árboles%20y%20Ensambles.pdf) - [Ejemplos](../../blob/main/Clases/Capítulo%202/Ejemplos/02%20-%20árboles_y_ensambles.ipynb)|
-| 2        | Redes Neuronales y Datos Tabulados| Jueves 15/04 | [Video](https://youtu.be/P1Vx5goB5RI) - [Slides](../../blob/main/Clases/Capítulo%202/04%20-%20Redes%20Neuronales%20y%20Datos%20Tabulados.pdf) - [Ejemplos](../../blob/main/Clases/Capítulo%202/Ejemplos/03%20-%20embeddings.ipynb) |
+|	Tópico                          | Fecha        | Recursos |
+| :-:                             | :-:          | :-:      |
+| Introducción a Redes Neuronales | Jueves 24/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales%20Parte%201.pdf)|
 
 </details>
 
+<!--
 <details>
 <summary>Capítulo 3: Datos Visuales</summary>
 <br>
@@ -163,21 +158,20 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | 6 - Grafos                | Jueves 08/07 | [Graph Attention Networks](../../blob/main/Lecturas/07-02%20al%2007-08/2018%20-%20Graph%20Attention%20Networks.pdf) | Felipe Gutiérrez | Video - Slides |
 
 </details>
-
+-->
 
 ## Lecturas
 
-<details>
+<details open>
 <summary>Capítulo 2</summary>
 <br>
  
 | Inicio |	Fin   | Recursos |
 | :-:    | :-:   | :-:          | 
-| 05/04  | 11/04 | [Lecturas](../../tree/main/Lecturas/04-05%20al%2004-11) - [Entrega](https://forms.gle/APCqNBwJfVPksN1AA) |
-| 12/04  | 18/04 | [Lecturas](../../tree/main/Lecturas/04-12%20al%2004-18) - [Entrega](https://forms.gle/dU6ruU66vNMJmkpf6) |
+| 24/03  | 30/03 | [Lecturas](../../tree/master/Lecturas/03-24%20al%2003-30) - Entrega |
 
 </details>
-
+<!--
 <details>
 <summary>Capítulo 3</summary>
 <br>
