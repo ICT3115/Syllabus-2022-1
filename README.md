@@ -168,7 +168,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
  
 | Inicio |	Fin   | Recursos |
 | :-:    | :-:   | :-:          | 
-| 24/03  | 30/03 | [Lecturas](../../tree/master/Lecturas/03-24%20al%2003-30) - Entrega |
+| 24/03  | 30/03 | [Lecturas](../../tree/master/Lecturas/03-24%20al%2003-30) - [Entrega](https://forms.gle/Rbnq2ncYqpEdzHv29) |
 
 </details>
 <!--
