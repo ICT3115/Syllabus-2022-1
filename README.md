@@ -218,7 +218,6 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | 10/06  | 22/06 | [Lecturas](../../tree/main/Lecturas/07-02%20al%2007-08) - [Entrega](https://forms.gle/tX4ounYKYWDcGU3f9) |
 
 </details>
-
 -->
 
 ## Notas
