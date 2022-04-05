@@ -13,7 +13,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 ## Calendario de clases
 
 <details>
-<summary>Capítulo 1: Introducción</summary>
+<summary>Capítulo 1: introducción</summary>
 <br>
  
 | Tópico                           | Fecha        | Recursos |
@@ -26,14 +26,15 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 </details>
  
 <details open>
-<summary>Capítulo 2: Procesamiento de datos tabulados</summary>
+<summary>Capítulo 2: aprendizaje sobre datos tabulados</summary>
 <br>
  
 |	Tópico                          | Fecha        | Recursos |
 | :-:                             | :-:          | :-:      |
 | Introducción a Redes Neuronales | Jueves 24/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf)|
 | Introducción a Redes Neuronales | Martes 29/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf)|
-| Introducción a Redes Neuronales | Martes 29/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf) - [Ejemplos](../../tree/master/Clases/Capítulo%202/Ejemplos)|
+| Introducción a Redes Neuronales | Jueves 31/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf) - [Ejemplos](../../tree/master/Clases/Capítulo%202/Ejemplos)|
+| Aprendizaje de embeddings       | Martes 05/04 | [Slides](../../blob/master/Clases/Capítulo%202/02%20-%20Aprendizaje%20de%20embeddings.pdf) - [Ejemplos](../../tree/master/Clases/Capítulo%202/Ejemplos)|
 
 </details>
 
@@ -99,24 +100,25 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | Tarea 2 | Procesamiento de datos visuales  | Martes 08/06  | [Enunciado](../../blob/main/Tareas/T2/T2.pdf) - [Sesión consultas](https://youtu.be/iBQT7kCpjnY) - [Buzón](https://forms.gle/sT9khzvhnfd5kETM9) |
 | Tarea 3 | Procesamiento de datos secuenciales | Jueves 01/07  | [Enunciado](../../blob/main/Tareas/T3/T3.pdf) - [Sesión consultas 1](https://youtu.be/T9bFW_aqn-8) - [Sesión consultas 2](https://youtu.be/7YIB9DxT0T0) - [Buzón](https://forms.gle/bTnjcPVYn9JZvH9P9) |
 | Tarea 4 | El desafío final                 | -  | [Enunciado](../../blob/main/Tareas/T4/T4.pdf) - Buzón |
-
+-->
 
 
 
 ## Calendario de presentaciones
 
-<details>
+<details open>
 <summary>Capítulo 2</summary>
 <br>
  
-| Capítulo                  |	Fecha        | Paper      | Presentador      | Recursos |
-| :-:                       | :-:          | :-:        | :-:              | :-:      |
-| 2 - Datos tabulados       | Martes 20/04 | [Deep Architecture for Citywide Travel Time Estimation Incorporating Contextual Information](../../blob/main/Lecturas/04-12%20al%2004-18/2019%20-%20Deep%20Architecture%20for%20Citywide%20Travel%20Time%20Estimation%20Incorporating%20Contextual%20Information.pdf) | José Niño | [Video](https://youtu.be/1WYMgxWDZhs) - [Slides](../../blob/main/Presentaciones/04-20%20-%20José%20Niño.pdf) |
-| 2 - Datos tabulados       | Martes 20/04 | [Deep Auto Encoder Neural Networks for Short-Term Traffic Congestion Prediction of Transportation Networks](../../blob/main/Lecturas/04-05%20al%2004-11/2019%20-%20Deep%20Autoencoder%20Neural%20Networks%20for%20Short-Term%20Traffic%20Congestion%20Prediction%20of%20Transportation%20Networks.pdf) | Martín López | [Video](https://youtu.be/rNpXvzKQK1c) - [Slides](../../blob/main/Presentaciones/04-20%20-%20Martín%20López.pdf) |
+|	Fecha        | Paper      | Presentadores    | Recursos |
+| :-:          | :-:        | :-:              | :-:      |
+| Martes 12/04 | -          | -                | Slides   |
+| Martes 12/04 | -          | -                | Slides   |
+
 
 </details>
 
-
+<!--
 <details>
 <summary>Capítulo 3</summary>
 <br>
@@ -171,6 +173,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | Inicio |	Fin   | Recursos |
 | :-:    | :-:   | :-:          | 
 | 24/03  | 30/03 | [Lecturas](../../tree/master/Lecturas/03-24%20al%2003-30) - [Entrega](https://forms.gle/Rbnq2ncYqpEdzHv29) |
+| 05/04  | 11/04 | [Lecturas](../../tree/master/Lecturas/04-05%20al%2004-11) - Entrega |
 
 </details>
 <!--
