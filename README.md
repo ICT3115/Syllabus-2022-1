@@ -33,8 +33,8 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | :-:                             | :-:          | :-:      |
 | Introducción a Redes Neuronales | Jueves 24/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf)|
 | Introducción a Redes Neuronales | Martes 29/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf)|
-| Introducción a Redes Neuronales | Jueves 31/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf) - [Ejemplos](../../tree/master/Clases/Capítulo%202/Ejemplos)|
-| Aprendizaje de embeddings       | Martes 05/04 | [Slides](../../blob/master/Clases/Capítulo%202/02%20-%20Aprendizaje%20de%20embeddings.pdf) - [Ejemplos](../../tree/master/Clases/Capítulo%202/Ejemplos)|
+| Introducción a Redes Neuronales | Jueves 31/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf) - [Ejemplo](../../blob/master/Clases/Capítulo%202/Ejemplos/01%20-%20backpropagation.ipynb)|
+| Aprendizaje de embeddings       | Martes 05/04 | [Slides](../../blob/master/Clases/Capítulo%202/02%20-%20Aprendizaje%20de%20embeddings.pdf) - [Ejemplo](../../blob/master/Clases/Capítulo%202/Ejemplos/02%20-%20embeddings.ipynb)|
 
 </details>
 
