@@ -29,12 +29,14 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 <summary>Capítulo 2: aprendizaje sobre datos tabulados</summary>
 <br>
  
-|	Tópico                          | Fecha        | Recursos |
-| :-:                             | :-:          | :-:      |
-| Introducción a Redes Neuronales | Jueves 24/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf)|
-| Introducción a Redes Neuronales | Martes 29/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf)|
-| Introducción a Redes Neuronales | Jueves 31/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf) - [Ejemplo](../../blob/master/Clases/Capítulo%202/Ejemplos/01%20-%20backpropagation.ipynb)|
-| Aprendizaje de embeddings       | Martes 05/04 | [Slides](../../blob/master/Clases/Capítulo%202/02%20-%20Aprendizaje%20de%20embeddings.pdf) - [Ejemplo](../../blob/master/Clases/Capítulo%202/Ejemplos/02%20-%20embeddings.ipynb)|
+|	Tópico                               | Fecha        | Recursos |
+| :-:                                  | :-:          | :-:      |
+| Introducción a Redes Neuronales      | Jueves 24/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf)|
+| Introducción a Redes Neuronales      | Martes 29/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf)|
+| Introducción a Redes Neuronales      | Jueves 31/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf) - [Ejemplo](../../blob/master/Clases/Capítulo%202/Ejemplos/01%20-%20backpropagation.ipynb)|
+| Aprendizaje de embeddings            | Martes 05/04 | [Slides](../../blob/master/Clases/Capítulo%202/02%20-%20Aprendizaje%20de%20embeddings.pdf)|
+| Aprendizaje de embeddings en Pytorch | Jueves 07/04 | [Ejemplo](../../blob/master/Clases/Capítulo%202/Ejemplos/02%20-%20embeddings.ipynb)|
+| Maquinaria de Deep Learning          | Martes 18/04 | [Slides](../../blob/master/Clases/Capítulo%202/03%20-%20Maquinaria%20de%20Deep%20Learning.pdf) - Ejemplo |
 
 </details>
 
@@ -73,12 +75,9 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
  
 |	Fecha        | Paper      | Presentadores    | Recursos |
 | :-:          | :-:        | :-:              | :-:      |
-| Martes 12/04 | -          | -                | Slides   |
-| Martes 12/04 | -          | -                | Slides   |
+| Martes 12/04 | [Neural Networks and The Multinomial Logit for Brand Choice Modelling - A Hybrid Approach](blob/master/Lecturas/03-24%20al%2003-30/Neural%20Networks%20and%20The%20Multinomial%20Logit%20for%20Brand%20Choice%20Modelling%20%20-%20A%20Hybrid%20Approach.pdf) | Diego Guamán y Guillermo Otárola | Slides   |
 
 </details>
-
-
 
 
 ## Notas
