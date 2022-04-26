@@ -33,10 +33,10 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | :-:                                  | :-:          | :-:      |
 | Introducción a Redes Neuronales      | Jueves 24/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf)|
 | Introducción a Redes Neuronales      | Martes 29/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf)|
-| Introducción a Redes Neuronales      | Jueves 31/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf) - [Ejemplos](../../blob/master/Clases/Capítulo%202/Ejemplos/01%20-%20backpropagation.ipynb)|
+| Introducción a Redes Neuronales      | Jueves 31/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf) - [Ejemplo](../../blob/master/Clases/Capítulo%202/Ejemplos/01%20-%20backpropagation.ipynb)|
 | Aprendizaje de embeddings            | Martes 05/04 | [Slides](../../blob/master/Clases/Capítulo%202/02%20-%20Aprendizaje%20de%20embeddings.pdf)|
-| Aprendizaje de embeddings en Pytorch | Jueves 07/04 | [Ejemplos](../../blob/master/Clases/Capítulo%202/Ejemplos/02%20-%20embeddings.ipynb)|
-| Maquinaria de Deep Learning          | Martes 19/04 | [Slides](../../blob/master/Clases/Capítulo%202/03%20-%20Maquinaria%20de%20Deep%20Learning.pdf) - Ejemplos |
+| Aprendizaje de embeddings en Pytorch | Jueves 07/04 | [Ejemplo](../../blob/master/Clases/Capítulo%202/Ejemplos/02%20-%20embeddings.ipynb)|
+| Maquinaria de Deep Learning          | Martes 19/04 | [Slides](../../blob/master/Clases/Capítulo%202/03%20-%20Maquinaria%20de%20Deep%20Learning.pdf) - Ejemplo |
 
 </details>
 
@@ -46,8 +46,8 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
  
 |	Tópico                           | Fecha        | Recursos |
 | :-:                              | :-:          | :-:      |
-| Redes Neuronales Convolucionales | Jueves 21/04 | [Slides](../../blob/master/Clases/Capítulo%203/01%20-%20Redes%20Neuronales%20Convolucionales.pdf) - [Video explicativo 1](https://youtu.be/QzY57FaENXg) - [Video explicativo 2](https://youtu.be/FTr3n7uBIuE)|
-| Aspectos prácticos de CNNs       | Martes 26/04 | Slides - Ejemplos|
+| Redes Neuronales Convolucionales | Jueves 21/04 | [Slides](../../blob/master/Clases/Capítulo%203/01%20-%20Redes%20Neuronales%20Convolucionales.pdf) - [Video explicativo 1](https://youtu.be/QzY57FaENXg) - [Video explicativo 2](https://youtu.be/FTr3n7uBIuE) - [Ejemplo](../../blob/master/Clases/Capítulo%203/Ejemplos/01%20-%20CNNs.ipynb)|
+| Aspectos prácticos de CNNs       | Martes 26/04 | [Slides](../../blob/master/Clases/Capítulo%203/02%20-%20Aspectos%20prácticos%20de%20CNNs.pdf) - Ejemplo|
 
 </details>
 
