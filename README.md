@@ -44,10 +44,11 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 <summary>Capítulo 3: aprendizaje sobre datos visuales</summary>
 <br>
  
-|	Tópico                           | Fecha        | Recursos |
-| :-:                              | :-:          | :-:      |
-| Redes Neuronales Convolucionales | Jueves 21/04 | [Slides](../../blob/master/Clases/Capítulo%203/01%20-%20Redes%20Neuronales%20Convolucionales.pdf) - [Video explicativo 1](https://youtu.be/QzY57FaENXg) - [Video explicativo 2](https://youtu.be/FTr3n7uBIuE) - [Ejemplo](../../blob/master/Clases/Capítulo%203/Ejemplos/01%20-%20CNNs.ipynb)|
-| Aspectos prácticos de CNNs       | Martes 26/04 | [Slides](../../blob/master/Clases/Capítulo%203/02%20-%20Aspectos%20prácticos%20de%20CNNs.pdf) - Ejemplo|
+|	Tópico                              | Fecha        | Recursos |
+| :-:                                 | :-:          | :-:      |
+| Redes Neuronales Convolucionales    | Jueves 21/04 | [Slides](../../blob/master/Clases/Capítulo%203/01%20-%20Redes%20Neuronales%20Convolucionales.pdf) - [Video explicativo 1](https://youtu.be/QzY57FaENXg) - [Video explicativo 2](https://youtu.be/FTr3n7uBIuE) - [Ejemplo](../../blob/master/Clases/Capítulo%203/Ejemplos/01%20-%20CNNs.ipynb)|
+| Aspectos prácticos de CNNs          | Martes 26/04 | [Slides](../../blob/master/Clases/Capítulo%203/02%20-%20Aspectos%20prácticos%20de%20CNNs.pdf) - Ejemplo|
+| Análisis visual de entornos urbanos | Jueves 28/04 | [Slides](../../blob/master/Clases/Capítulo%203/03%20-%20Análisis%20visual%20de%20entornos%20urbanos.pdf) |
 
 </details>
 
@@ -74,6 +75,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | 24/03  | 30/03 | [Lecturas](../../tree/master/Lecturas/03-24%20al%2003-30) - [Entrega](https://forms.gle/Rbnq2ncYqpEdzHv29) |
 | 05/04  | 11/04 | [Lecturas](../../tree/master/Lecturas/04-05%20al%2004-11) - [Entrega](https://forms.gle/Y5KoBnDaTNAJzdFH6) |
 | 21/04  | 27/04 | [Lecturas](../../tree/master/Lecturas/04-21%20al%2004-27) - [Entrega](https://forms.gle/Qf42ssbvxKEGnDPm8) |
+| 28/04  | 04/05 | [Lecturas](../../tree/master/Lecturas/04-28%20al%2005-04) - Entrega |
 
 </details>
 
