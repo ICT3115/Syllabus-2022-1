@@ -52,17 +52,11 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 </details>
 
-
-<!--
 ## Tareas
  
-| Tarea   |	Tópicos                          | Fecha Entrega | Recursos |
-| :-:     | :-:                              | :-:           | :-:      |
-| Tarea 1 | Procesamiento de datos tabulados | Lunes 24/05   | [Enunciado](../../blob/main/Tareas/T1/T1.pdf) - [Buzón](https://forms.gle/KbwR9gT5bBhJdH2u8) |
-| Tarea 2 | Procesamiento de datos visuales  | Martes 08/06  | [Enunciado](../../blob/main/Tareas/T2/T2.pdf) - [Sesión consultas](https://youtu.be/iBQT7kCpjnY) - [Buzón](https://forms.gle/sT9khzvhnfd5kETM9) |
-| Tarea 3 | Procesamiento de datos secuenciales | Jueves 01/07  | [Enunciado](../../blob/main/Tareas/T3/T3.pdf) - [Sesión consultas 1](https://youtu.be/T9bFW_aqn-8) - [Sesión consultas 2](https://youtu.be/7YIB9DxT0T0) - [Buzón](https://forms.gle/bTnjcPVYn9JZvH9P9) |
-| Tarea 4 | El desafío final                 | -  | [Enunciado](../../blob/main/Tareas/T4/T4.pdf) - Buzón |
--->
+| Tarea   |	Tópicos                                | Fecha Entrega | Recursos |
+| :-:     | :-:                                    | :-:           | :-:      |
+| Tarea 1 | Redes neuronales para elección de modo | Lunes 16/05   | [Enunciado](../../blob/master/Tareas/T1/T1.pdf) - Buzón |
 
 ## Lecturas
 
