@@ -57,7 +57,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
  
 | Tarea   |	Tópicos                                | Fecha Entrega | Recursos |
 | :-:     | :-:                                    | :-:           | :-:      |
-| Tarea 1 | Redes neuronales para elección de modo | Lunes 16/05   | [Enunciado](../../blob/master/Tareas/T1/T1.pdf) - Buzón |
+| Tarea 1 | Redes neuronales para elección de modo | Lunes 16/05   | [Enunciado](../../blob/master/Tareas/T1/T1.pdf) - [Datos](../../blob/master/Tareas/T1/swissmetro.ipynb) - Buzón |
 
 ## Lecturas
 
