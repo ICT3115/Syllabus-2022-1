@@ -49,6 +49,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | Redes Neuronales Convolucionales    | Jueves 21/04 | [Slides](../../blob/master/Clases/Capítulo%203/01%20-%20Redes%20Neuronales%20Convolucionales.pdf) - [Video explicativo 1](https://youtu.be/QzY57FaENXg) - [Video explicativo 2](https://youtu.be/FTr3n7uBIuE) - [Ejemplo](../../blob/master/Clases/Capítulo%203/Ejemplos/01%20-%20CNNs.ipynb)|
 | Aspectos prácticos de CNNs          | Martes 26/04 | [Slides](../../blob/master/Clases/Capítulo%203/02%20-%20Aspectos%20prácticos%20de%20CNNs.pdf) - Ejemplo|
 | Análisis visual de entornos urbanos | Jueves 28/04 | [Slides](../../blob/master/Clases/Capítulo%203/03%20-%20Análisis%20visual%20de%20entornos%20urbanos.pdf) |
+| Análisis visual de entornos urbanos | Martes 03/05 | [Slides](../../blob/master/Clases/Capítulo%203/03%20-%20Análisis%20visual%20de%20entornos%20urbanos.pdf) - Ejemplos |
 
 </details>
 
@@ -77,15 +78,13 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 ## Calendario de presentaciones
 
-<details open>
-<summary>Capítulo 2</summary>
-<br>
- 
+
 |	Fecha        | Paper      | Presentadores    | Recursos |
 | :-:          | :-:        | :-:              | :-:      |
-| Martes 12/04 | [Neural Networks and The Multinomial Logit for Brand Choice Modelling - A Hybrid Approach](blob/master/Lecturas/03-24%20al%2003-30/Neural%20Networks%20and%20The%20Multinomial%20Logit%20for%20Brand%20Choice%20Modelling%20%20-%20A%20Hybrid%20Approach.pdf) | Diego Guamán y Guillermo Otárola | Slides   |
+| Martes 12/04 | [Neural Networks and The Multinomial Logit for Brand Choice Modelling - A Hybrid Approach](../../blob/master/Lecturas/03-24%20al%2003-30/Neural%20Networks%20and%20The%20Multinomial%20Logit%20for%20Brand%20Choice%20Modelling%20%20-%20A%20Hybrid%20Approach.pdf) | Diego Guamán y Guillermo Otárola | Slides   |
+| Jueves 05/05 | [ImageNet Classification with Deep Convolutional Neural Networks](../../blob/master/Lecturas/04-21%20al%2004-27/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Networks.pdf) | María Coronado y Gaspar Masihy | Slides |
+| Jueves 05/05 |  | Fernando Abarzúa y Raimundo Burgos | Slides |
 
-</details>
 
 
 ## Notas
