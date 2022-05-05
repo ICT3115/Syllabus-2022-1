@@ -71,8 +71,8 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 |	Fecha        | Paper      | Presentadores    | Recursos |
 | :-:          | :-:        | :-:              | :-:      |
-| Martes 12/04 | [Neural Networks and The Multinomial Logit for Brand Choice Modelling - A Hybrid Approach](../../blob/master/Lecturas/03-24%20al%2003-30/Neural%20Networks%20and%20The%20Multinomial%20Logit%20for%20Brand%20Choice%20Modelling%20%20-%20A%20Hybrid%20Approach.pdf) | Diego Guamán y Guillermo Otárola | Slides   |
-| Jueves 05/05 | [ImageNet Classification with Deep Convolutional Neural Networks](../../blob/master/Lecturas/04-21%20al%2004-27/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Networks.pdf) | María Coronado y Gaspar Masihy | Slides |
+| Martes 12/04 | [Neural Networks and The Multinomial Logit for Brand Choice Modelling - A Hybrid Approach](../../blob/master/Lecturas/03-24%20al%2003-30/Neural%20Networks%20and%20The%20Multinomial%20Logit%20for%20Brand%20Choice%20Modelling%20%20-%20A%20Hybrid%20Approach.pdf) | Diego Guamán y Guillermo Otárola | [Slides](../../blob/master/Presentaciones/04-12%20-%20Guamán%20-%20Otárola.pdf) |
+| Jueves 05/05 | [ImageNet Classification with Deep Convolutional Neural Networks](../../blob/master/Lecturas/04-21%20al%2004-27/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Networks.pdf) | Paula Coronado y Gaspar Masihy | [Slides](../../blob/master/Presentaciones/05-05%20-%20Coronado-Masihy.pdf) |
 
 
 
