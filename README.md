@@ -14,7 +14,6 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 <details>
 <summary>Capítulo 1: introducción</summary>
-<br>
  
 | Tópico                           | Fecha        | Recursos |
 | :-:                              | :-:          | :-:      |
@@ -25,9 +24,8 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
  
 </details>
  
-<details open>
+<details>
 <summary>Capítulo 2: aprendizaje sobre datos tabulados</summary>
-<br>
  
 |	Tópico                               | Fecha        | Recursos |
 | :-:                                  | :-:          | :-:      |
@@ -42,7 +40,6 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 <details open>
 <summary>Capítulo 3: aprendizaje sobre datos visuales</summary>
-<br>
  
 |	Tópico                              | Fecha        | Recursos |
 | :-:                                 | :-:          | :-:      |
@@ -57,23 +54,16 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
  
 | Tarea   |	Tópicos                                | Fecha Entrega | Recursos |
 | :-:     | :-:                                    | :-:           | :-:      |
-| Tarea 1 | Redes neuronales para elección de modo | Lunes 16/05   | [Enunciado](../../blob/master/Tareas/T1/T1.pdf) - Buzón |
+| Tarea 1 | Redes neuronales para elección de modo | Lunes 16/05   | [Enunciado](../../blob/master/Tareas/T1/T1.pdf) - [Datos](../../blob/master/Tareas/T1/swissmetro.ipynb) - [Buzón](https://forms.gle/cPwZLnBCa2RnmjSB9) |
 
 ## Lecturas
-
-<details open>
-<summary>Capítulo 2</summary>
-<br>
  
 | Inicio |	Fin   | Recursos |
 | :-:    | :-:   | :-:          | 
 | 24/03  | 30/03 | [Lecturas](../../tree/master/Lecturas/03-24%20al%2003-30) - [Entrega](https://forms.gle/Rbnq2ncYqpEdzHv29) |
 | 05/04  | 11/04 | [Lecturas](../../tree/master/Lecturas/04-05%20al%2004-11) - [Entrega](https://forms.gle/Y5KoBnDaTNAJzdFH6) |
 | 21/04  | 27/04 | [Lecturas](../../tree/master/Lecturas/04-21%20al%2004-27) - [Entrega](https://forms.gle/Qf42ssbvxKEGnDPm8) |
-| 28/04  | 04/05 | [Lecturas](../../tree/master/Lecturas/04-28%20al%2005-04) - Entrega |
-
-</details>
-
+| 28/04  | 04/05 | [Lecturas](../../tree/master/Lecturas/04-28%20al%2005-04) - [Entrega](https://forms.gle/Fc4YiugeoFheCFxe7) |
 
 
 ## Calendario de presentaciones
@@ -83,7 +73,6 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | :-:          | :-:        | :-:              | :-:      |
 | Martes 12/04 | [Neural Networks and The Multinomial Logit for Brand Choice Modelling - A Hybrid Approach](../../blob/master/Lecturas/03-24%20al%2003-30/Neural%20Networks%20and%20The%20Multinomial%20Logit%20for%20Brand%20Choice%20Modelling%20%20-%20A%20Hybrid%20Approach.pdf) | Diego Guamán y Guillermo Otárola | Slides   |
 | Jueves 05/05 | [ImageNet Classification with Deep Convolutional Neural Networks](../../blob/master/Lecturas/04-21%20al%2004-27/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Networks.pdf) | María Coronado y Gaspar Masihy | Slides |
-| Jueves 05/05 |  | Fernando Abarzúa y Raimundo Burgos | Slides |
 
 
 
