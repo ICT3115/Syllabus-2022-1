@@ -34,7 +34,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | Introducción a Redes Neuronales      | Jueves 31/03 | [Slides](../../blob/master/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales.pdf) - [Ejemplo](../../blob/master/Clases/Capítulo%202/Ejemplos/01%20-%20backpropagation.ipynb)|
 | Aprendizaje de embeddings            | Martes 05/04 | [Slides](../../blob/master/Clases/Capítulo%202/02%20-%20Aprendizaje%20de%20embeddings.pdf)|
 | Aprendizaje de embeddings en Pytorch | Jueves 07/04 | [Ejemplo](../../blob/master/Clases/Capítulo%202/Ejemplos/02%20-%20embeddings.ipynb)|
-| Maquinaria de Deep Learning          | Martes 19/04 | [Slides](../../blob/master/Clases/Capítulo%202/03%20-%20Maquinaria%20de%20Deep%20Learning.pdf) - Ejemplo |
+| Maquinaria de Deep Learning          | Martes 19/04 | [Slides](../../blob/master/Clases/Capítulo%202/03%20-%20Maquinaria%20de%20Deep%20Learning.pdf) - [Ejemplos](Clases/Capítulo%202/Ejemplos/03%20-%20batchnorm_y_dropout.ipynb) |
 
 </details>
 
