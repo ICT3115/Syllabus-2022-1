@@ -44,19 +44,19 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 |	Tópico                              | Fecha        | Recursos |
 | :-:                                 | :-:          | :-:      |
 | Redes Neuronales Convolucionales    | Jueves 21/04 | [Slides](../../blob/master/Clases/Capítulo%203/01%20-%20Redes%20Neuronales%20Convolucionales.pdf) - [Video explicativo 1](https://youtu.be/QzY57FaENXg) - [Video explicativo 2](https://youtu.be/FTr3n7uBIuE) - [Ejemplo](../../blob/master/Clases/Capítulo%203/Ejemplos/01%20-%20CNNs.ipynb)|
-| Aspectos prácticos de CNNs          | Martes 26/04 | [Slides](../../blob/master/Clases/Capítulo%203/02%20-%20Aspectos%20prácticos%20de%20CNNs.pdf) - Ejemplo|
+| Aspectos prácticos de CNNs          | Martes 26/04 | [Slides](../../blob/master/Clases/Capítulo%203/02%20-%20Aspectos%20prácticos%20de%20CNNs.pdf) - [Ejemplo](Clases/Capítulo%203/Ejemplos/02%20-%20transfer_learning.ipynb) |
 | Análisis visual de entornos urbanos | Jueves 28/04 | [Slides](../../blob/master/Clases/Capítulo%203/03%20-%20Análisis%20visual%20de%20entornos%20urbanos.pdf) |
-| Análisis visual de entornos urbanos | Martes 03/05 | [Slides](../../blob/master/Clases/Capítulo%203/03%20-%20Análisis%20visual%20de%20entornos%20urbanos.pdf) - Ejemplos |
+| Análisis visual de entornos urbanos | Martes 03/05 | [Slides](../../blob/master/Clases/Capítulo%203/03%20-%20Análisis%20visual%20de%20entornos%20urbanos.pdf) - [Ejemplo](Clases/Capítulo%203/Ejemplos/03%20-%20semantic_segmentation.ipynb) |
 
 </details>
 
 <details open>
 <summary>Capítulo 4: aprendizaje sobre datos estructurados</summary>
  
-|	Tópico                       | Fecha        | Recursos |
-| :-:                          | :-:          | :-:      |
-| Redes para redes             | Martes 10/05 | [Slides](Clases/Capítulo%204/01%20-%20Redes%20para%20redes.pdf) |
-| Redes neuronales para grafos | Jueves 12/05 | Slides |
+|	Tópico                            | Fecha        | Recursos |
+| :-:                               | :-:          | :-:      |
+| Redes para redes                  | Martes 10/05 | [Slides](Clases/Capítulo%204/01%20-%20Redes%20para%20redes.pdf) |
+| Redes convolucionales para grafos | Jueves 12/05 | [Slides](Clases/Capítulo%204/02%20-%20Redes%20convolucionales%20para%20grafos.pdf) - Ejemplo |
 
 </details>
 
