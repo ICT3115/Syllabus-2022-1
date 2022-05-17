@@ -56,7 +56,8 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 |	Tópico                            | Fecha        | Recursos |
 | :-:                               | :-:          | :-:      |
 | Redes para redes                  | Martes 10/05 | [Slides](Clases/Capítulo%204/01%20-%20Redes%20para%20redes.pdf) |
-| Redes convolucionales para grafos | Jueves 12/05 | [Slides](Clases/Capítulo%204/02%20-%20Redes%20convolucionales%20para%20grafos.pdf) - Ejemplo |
+| Redes convolucionales para grafos | Jueves 12/05 | [Slides](Clases/Capítulo%204/02%20-%20Redes%20convolucionales%20para%20grafos.pdf) - [Ejemplo](Clases/Capítulo%204/Ejemplos/01%20-%20GCN.ipynb) |
+| Ejemplos de uso de GNN            | Martes 17/05 | [Ejemplos](Clases/Capítulo%204/Ejemplos/02%20-%20pytorch_geometric.ipynb) |
 
 </details>
 
