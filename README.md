@@ -75,7 +75,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | 05/04  | 11/04 | [Lecturas](../../tree/master/Lecturas/04-05%20al%2004-11) - [Entrega](https://forms.gle/Y5KoBnDaTNAJzdFH6) |
 | 21/04  | 27/04 | [Lecturas](../../tree/master/Lecturas/04-21%20al%2004-27) - [Entrega](https://forms.gle/Qf42ssbvxKEGnDPm8) |
 | 28/04  | 04/05 | [Lecturas](../../tree/master/Lecturas/04-28%20al%2005-04) - [Entrega](https://forms.gle/Fc4YiugeoFheCFxe7) |
-| 10/05  | 18/05 | [Lecturas](../../tree/master/Lecturas/05-10%20al%2005-18) - Entrega |
+| 10/05  | 18/05 | [Lecturas](../../tree/master/Lecturas/05-10%20al%2005-18) - [Entrega](https://forms.gle/evosteCtwfDy3ey76) |
 
 
 ## Calendario de presentaciones
