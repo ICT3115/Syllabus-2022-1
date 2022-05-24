@@ -50,7 +50,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 4: aprendizaje sobre datos estructurados</summary>
  
 |	Tópico                            | Fecha        | Recursos |
@@ -58,6 +58,15 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | Redes para redes                  | Martes 10/05 | [Slides](Clases/Capítulo%204/01%20-%20Redes%20para%20redes.pdf) |
 | Redes convolucionales para grafos | Jueves 12/05 | [Slides](Clases/Capítulo%204/02%20-%20Redes%20convolucionales%20para%20grafos.pdf) - [Ejemplo](Clases/Capítulo%204/Ejemplos/01%20-%20GCN.ipynb) |
 | Ejemplos de uso de GNN            | Martes 17/05 | [Ejemplos](Clases/Capítulo%204/Ejemplos/02%20-%20pytorch_geometric.ipynb) |
+
+</details>
+
+<details open>
+<summary>Capítulo 5: aprendizaje sobre datos secuenciales</summary>
+ 
+|	Tópico                            | Fecha        | Recursos |
+| :-:                               | :-:          | :-:      |
+| Redes neuronales recurrentes      | Martes 24/05 | [Slides](Clases/Capítulo%205/01%20-%20Redes%20Neuronales%20Recurrentes%20(RNN).pdf) - Ejemplos|
 
 </details>
 
@@ -76,6 +85,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | 21/04  | 27/04 | [Lecturas](../../tree/master/Lecturas/04-21%20al%2004-27) - [Entrega](https://forms.gle/Qf42ssbvxKEGnDPm8) |
 | 28/04  | 04/05 | [Lecturas](../../tree/master/Lecturas/04-28%20al%2005-04) - [Entrega](https://forms.gle/Fc4YiugeoFheCFxe7) |
 | 10/05  | 18/05 | [Lecturas](../../tree/master/Lecturas/05-10%20al%2005-18) - [Entrega](https://forms.gle/evosteCtwfDy3ey76) |
+| 24/05  | 30/05 | [Lecturas](../../tree/master/Lecturas/05-24%20al%2005-30) - Entrega |
 
 
 ## Calendario de presentaciones
