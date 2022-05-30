@@ -64,9 +64,11 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 <details open>
 <summary>Capítulo 5: aprendizaje sobre datos secuenciales</summary>
  
-|	Tópico                            | Fecha        | Recursos |
-| :-:                               | :-:          | :-:      |
-| Redes neuronales recurrentes      | Martes 24/05 | [Slides](Clases/Capítulo%205/01%20-%20Redes%20Neuronales%20Recurrentes%20(RNN).pdf) - Ejemplos|
+|	Tópico                       | Fecha        | Recursos |
+| :-:                          | :-:          | :-:      |
+| Redes neuronales recurrentes | Martes 24/05 | [Slides](Clases/Capítulo%205/01%20-%20Redes%20Neuronales%20Recurrentes%20(RNN).pdf)|
+| Redes neuronales recurrentes | Jueves 26/05 | [Slides](Clases/Capítulo%205/01%20-%20Redes%20Neuronales%20Recurrentes%20(RNN).pdf) - Ejemplos|
+| Modelos de lenguaje          | Jueves 26/05 | Slides - Ejemplos|
 
 </details>
 
@@ -75,6 +77,8 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | Tarea   |	Tópicos                                | Fecha Entrega | Recursos |
 | :-:     | :-:                                    | :-:           | :-:      |
 | Tarea 1 | Redes neuronales para elección de modo | Lunes 16/05   | [Enunciado](../../blob/master/Tareas/T1/T1.pdf) - [Datos](../../blob/master/Tareas/T1/swissmetro.ipynb) - [Buzón](https://forms.gle/cPwZLnBCa2RnmjSB9) |
+| Tarea 2 | Redes neuronales para percepción visual urbana | Viernes 24/06   | [Enunciado](../../blob/master/Tareas/T2/T2.pdf) - Buzón |
+| Tarea 3 | Redes neuronales para aprendizaje en redes viales | Viernes 24/06   | [Enunciado](../../blob/master/Tareas/T3/T3.pdf) - Buzón |
 
 ## Lecturas
  
@@ -85,7 +89,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | 21/04  | 27/04 | [Lecturas](../../tree/master/Lecturas/04-21%20al%2004-27) - [Entrega](https://forms.gle/Qf42ssbvxKEGnDPm8) |
 | 28/04  | 04/05 | [Lecturas](../../tree/master/Lecturas/04-28%20al%2005-04) - [Entrega](https://forms.gle/Fc4YiugeoFheCFxe7) |
 | 10/05  | 18/05 | [Lecturas](../../tree/master/Lecturas/05-10%20al%2005-18) - [Entrega](https://forms.gle/evosteCtwfDy3ey76) |
-| 24/05  | 30/05 | [Lecturas](../../tree/master/Lecturas/05-24%20al%2005-30) - Entrega |
+| 24/05  | 30/05 | [Lecturas](../../tree/master/Lecturas/05-24%20al%2005-30) - [Entrega](https://forms.gle/rCdEQNQNMJtFhTfr9) |
 
 
 ## Calendario de presentaciones
@@ -93,8 +97,9 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 |	Fecha        | Paper      | Presentadores    | Recursos |
 | :-:          | :-:        | :-:              | :-:      |
-| Martes 12/04 | [Neural Networks and The Multinomial Logit for Brand Choice Modelling - A Hybrid Approach](../../blob/master/Lecturas/03-24%20al%2003-30/Neural%20Networks%20and%20The%20Multinomial%20Logit%20for%20Brand%20Choice%20Modelling%20%20-%20A%20Hybrid%20Approach.pdf) | Diego Guamán y Guillermo Otárola | [Slides](../../blob/master/Presentaciones/04-12%20-%20Guamán%20-%20Otárola.pdf) |
-| Jueves 05/05 | [ImageNet Classification with Deep Convolutional Neural Networks](../../blob/master/Lecturas/04-21%20al%2004-27/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Networks.pdf) | Paula Coronado y Gaspar Masihy | [Slides](../../blob/master/Presentaciones/05-05%20-%20Coronado-Masihy.pdf) |
+| Martes 12/04 | [Neural Networks and The Multinomial Logit for Brand Choice Modelling - A Hybrid Approach](Lecturas/03-24%20al%2003-30/Neural%20Networks%20and%20The%20Multinomial%20Logit%20for%20Brand%20Choice%20Modelling%20%20-%20A%20Hybrid%20Approach.pdf) | Diego Guamán y Guillermo Otárola | [Slides](../../blob/master/Presentaciones/04-12%20-%20Guamán%20-%20Otárola.pdf) |
+| Jueves 05/05 | [ImageNet Classification with Deep Convolutional Neural Networks](Lecturas/04-21%20al%2004-27/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Networks.pdf) | Paula Coronado y Gaspar Masihy | [Slides](Presentaciones/05-05%20-%20Coronado-Masihy.pdf) |
+| Jueves 19/05 | [Graph Attention Networks](Lecturas/05-10%20al%2005-18/Graph%20Attention%20Networks.pdf) | Jorge Díaz | [Slides](Presentaciones/05-19%20-%20Díaz.pdf) |
 
 
 
