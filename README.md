@@ -68,7 +68,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | :-:                          | :-:          | :-:      |
 | Redes neuronales recurrentes | Martes 24/05 | [Slides](Clases/Capítulo%205/01%20-%20Redes%20Neuronales%20Recurrentes%20(RNN).pdf)|
 | Redes neuronales recurrentes | Jueves 26/05 | [Slides](Clases/Capítulo%205/01%20-%20Redes%20Neuronales%20Recurrentes%20(RNN).pdf) - Ejemplos|
-| Modelos de lenguaje          | Jueves 26/05 | Slides - Ejemplos|
+| Modelos de lenguaje          | Jueves 26/05 | [Slides](Clases/Capítulo%205/02%20-%20Modelos%20de%20Lenguaje.pdf)|
 
 </details>
 
