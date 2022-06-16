@@ -61,7 +61,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 5: aprendizaje sobre datos secuenciales</summary>
  
 |	Tópico                            | Fecha        | Recursos |
@@ -70,6 +70,16 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | Redes neuronales recurrentes      | Jueves 26/05 | [Slides](Clases/Capítulo%205/01%20-%20Redes%20Neuronales%20Recurrentes%20(RNN).pdf) - [Ejemplos](Clases/Capítulo%205/Ejemplos/01%20-%20RNNs.ipynb)|
 | Modelos de lenguaje               | Martes 31/05 | [Slides](Clases/Capítulo%205/02%20-%20Modelos%20de%20Lenguaje.pdf)|
 | Modelos secuenciales con atención | Jueves 02/06 | [Slides](Clases/Capítulo%205/03%20-%20Modelos%20secuenciales%20con%20atención.pdf) - [Ejemplos](Clases/Capítulo%205/Ejemplos/02%20-%20seq2seq_with_attention.ipynb)|
+
+</details>
+
+<details open>
+<summary>Capítulo 6: tópicos avanzados</summary>
+ 
+|	Tópico                                   | Fecha        | Recursos |
+| :-:                                      | :-:          | :-:      |
+| Foundation Models                        | Martes 14/06 | [Slides](Clases/Capítulo%206/01%20-%20Foundation%20Models.pdf) |
+| Control de agentes basado en aprendizaje | Jueves 16/06 | [Slides](Clases/Capítulo%206/02%20-%20Control%20de%20agentes%20basado%20en%20aprendizaje.pdf)  |
 
 </details>
 
@@ -92,6 +102,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | 10/05  | 18/05 | [Lecturas](../../tree/master/Lecturas/05-10%20al%2005-18) - [Entrega](https://forms.gle/evosteCtwfDy3ey76) |
 | 24/05  | 30/05 | [Lecturas](../../tree/master/Lecturas/05-24%20al%2005-30) - [Entrega](https://forms.gle/rCdEQNQNMJtFhTfr9) |
 | 31/05  | 06/06 | [Lecturas](../../tree/master/Lecturas/05-31%20al%2006-06) - [Entrega](https://forms.gle/fiqdF9pqdSvbCerB7) |
+| 16/06  | 22/06 | [Lecturas](../../tree/master/Lecturas/06-16%20al%2006-22) |
 
 
 ## Calendario de presentaciones
