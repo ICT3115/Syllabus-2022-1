@@ -88,8 +88,8 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | Tarea   |	Tópicos                                | Fecha Entrega | Recursos |
 | :-:     | :-:                                    | :-:           | :-:      |
 | Tarea 1 | Redes neuronales para elección de modo | Lunes 16/05   | [Enunciado](../../blob/master/Tareas/T1/T1.pdf) - [Datos](../../blob/master/Tareas/T1/swissmetro.ipynb) - [Buzón](https://forms.gle/cPwZLnBCa2RnmjSB9) |
-| Tarea 2 | Reconocimiento visual urbano explicable | Viernes 24/06   | [Enunciado](../../blob/master/Tareas/T2/T2.pdf) - Buzón |
-| Tarea 3 | Aprendizaje semi-supervisado de percepciónn urbana en grafos | Viernes 24/06   | [Enunciado](../../blob/master/Tareas/T3/T3.pdf) - Buzón |
+| Tarea 2 | Reconocimiento visual urbano explicable | Viernes 24/06   | [Enunciado](../../blob/master/Tareas/T2/T2.pdf) - [Buzón](https://forms.gle/8U89eGyVz465aPRH8) |
+| Tarea 3 | Aprendizaje semi-supervisado de percepciónn urbana en grafos | Viernes 24/06   | [Enunciado](../../blob/master/Tareas/T3/T3.pdf) - [Buzón](https://forms.gle/pDw7f3gMvfGhYydV9) |
 
 ## Lecturas
  
